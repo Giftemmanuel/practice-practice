@@ -1,2 +1,4 @@
 # practice-practice
-learning git manipulation
+learning git 
+
+just learning git
